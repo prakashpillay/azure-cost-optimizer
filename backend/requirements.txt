@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+azure-identity
+azure-mgmt-resource
+azure-mgmt-consumption
+pandas
